@@ -1,4 +1,6 @@
-package Orange.Hearth.controller; 
+//Prueba de que todo esta bien
+
+package Orange.Hearth.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
